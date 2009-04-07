@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP RevCanonical
-Plugin URI: http://www.nixonmcinnes.co.uk/
+Plugin URI: http://www.nixonmcinnes.co.uk/2009/04/07/implementing-internet-friendly-short-urls-with-wordpress/
 Description: Implements the <a href="http://revcanonical.appspot.com/">RevCanonical spec</a> in order to solve the <a href="http://www.scripting.com/stories/2009/03/07/solvingTheTinyurlCentraliz.html">TinyURL centralization problem</a>.
 Author: Steve Winton
 Version: 0.1
